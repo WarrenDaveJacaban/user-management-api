@@ -8,4 +8,4 @@ This is a Node.js-based RESTful API for managing users, built with Express and T
 - Input validation for user data.
 - Environment-based configuration using `.env` files.
 - Database integration with MySQL using TypeORM.
-- Middleware for CORS and JSON request validation.
+- Middleware for CORS and JSON request validation.  
