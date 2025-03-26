@@ -40,6 +40,7 @@ app.get("/", (req: Request, res: Response) => {
 });
 
 // User routes
+app.use("/users", userRoutes);
 
 // Function to check if required environment variables are set
 const validateEnv = () => {
