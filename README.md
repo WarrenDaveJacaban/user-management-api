@@ -46,7 +46,7 @@ FOR CREATE ONE
 
 Input "http://localhost:3000/users" in the bar
 In the body tab, pick JSON format, this might differ depending on the HTTP Request App
-Add an object with name,email,password (e.g {"name" : "marlou", "email" : "marlou@gmail.com", "password" : "123"})
+Add an object with name,email,password (e.g {"name" : "name", "email" : "name@gmail.com", "password" : "securepassword"})
 ENSURE the request type is POST
 Send Request
 FOR DELETE ONE
