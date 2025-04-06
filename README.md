@@ -18,7 +18,7 @@ Update existing user information
 Delete users
 SETUP INSTRUCTIONS Prerequisites -Node JS -XAMPP
 
-#Installation
+# Installation
 
 Clone the repository url
 In the terminal, enter "npm install"
@@ -27,7 +27,7 @@ Update the credentials in the data-source.ts file
 Start the express server by typing "npm run dev"
 API DOCUMENTATION base URL = http://localhost:3000 GET /users = GET ALL GET /users/:id = GET ONE BY ID POST /users = CREATE ONE DELETE /users/:id = DELETE ONE BY ID
 
-#TESTING
+# TESTING
 
 Open Thunder Client or PostMan
 Create new http request
