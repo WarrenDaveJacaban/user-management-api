@@ -22,7 +22,7 @@ SETUP INSTRUCTIONS Prerequisites -Node JS -XAMPP
 
 Clone the repository url
 In the terminal, enter "npm install"
-Create a database in the mysql using XAMPP -Open XAMPP -Start APACHE and MYSQL -Click Admin on the MYSQL -Create database named "user_management_db"\
+Create a database in the mysql using XAMPP -Open XAMPP -Start APACHE and MYSQL -Click Admin on the MYSQL -Create database named "user_management"\
 Update the credentials in the data-source.ts file
 Start the express server by typing "npm run dev"
 API DOCUMENTATION base URL = http://localhost:3000 GET /users = GET ALL GET /users/:id = GET ONE BY ID POST /users = CREATE ONE DELETE /users/:id = DELETE ONE BY ID
